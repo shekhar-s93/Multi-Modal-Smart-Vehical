@@ -88,6 +88,16 @@ It also includes useful features such as speed control, headlights, indicators, 
 
 ---
 
+## 📂 Project Resources
+
+| Resource | Link |
+|--------|------|
+| 📘 Blackbook | [View](./BLACKBOOK) |
+| 🔌 Circuit Diagram | [View](./DIAGRAM) |
+| 💻 Source Code | [Open](./Source_Code) |
+| 📸 Images | [View](./images/) |
+
+
 ## WiFi Details
 
 The ESP32 creates its own WiFi network.
