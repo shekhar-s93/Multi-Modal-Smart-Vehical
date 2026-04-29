@@ -88,14 +88,14 @@ It also includes useful features such as speed control, headlights, indicators, 
 
 ---
 
-## 📂 Project Resources
+## Project Resources
 
 | Resource | Link |
 |--------|------|
 | Blackbook | [View](./BLACKBOOK) |
 | Circuit Diagram | [View](./DIAGRAM/CIRCUIT.png) |
-| Source Code | [Open](./Source_Code/Source_Code.ino) |
 | Images | [View](./images/) |
+| Source Code | [Open](./Source_Code/Source_Code.ino) |
 | Video | [Open](https://drive.google.com/drive/folders/14HIaTRHm3Erd4fqoRqCpbUuvgNLLiHpN) |
 
 
