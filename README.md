@@ -57,10 +57,18 @@ It also includes useful features such as speed control, headlights, indicators, 
 |---|---|
 | ESP32 Board | Main microcontroller |
 | L298N Motor Driver | Controls DC motors |
-| DC Motors | Used for car movement |
+| 4 DC Motors | Used for car movement |
 | HC-SR04 Ultrasonic Sensor | Used for obstacle detection and follow mode |
 | 16x2 I2C LCD | Displays mode, speed, and distance |
-| LEDs | Headlights, indicators, hazard, and brake lights |
+| 2 White LEDs | Headlights |
+| 2 Red LEDs | Brake lights |
+| 4 Yellow LEDs | Both Side Indicator (LEFT or RIGHT) |
+| Ignition Swithch | Turn ON the car using key |
+| 3s Lithium - ions Battery | Power the entire car |
+| 3s BMS | Protect Battery from Overcharging and Discharging |
+| BUCK Converter | Give eject power to ESP as it required (5 volts) |
+| Charging Level Indicatior | To use how much battery is charged |
+| Push Button | To turn on the Charging level Indicator |
 
 ---
 
