@@ -1,4 +1,4 @@
-# ESP32 Multi-Modal Smart Car
+# Multi-Modal Smart Car Using ESP32(38-Pins)
 
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-C++-green)
@@ -45,11 +45,15 @@ It also includes useful features such as speed control, headlights, indicators, 
 - HTML
 - CSS
 - JavaScript
-- L298N Motor Driver
-- HC-SR04 Ultrasonic Sensor
-- I2C LCD Display
 
 ---
+
+## Software Required
+
+| Software | Function |
+|---|---|
+| Arduino IDE | For Upload the Code in ESP32 |
+| Web Browser | For Controll the Car | 
 
 ## Hardware Components
 
@@ -91,3 +95,6 @@ The ESP32 creates its own WiFi network.
 ```text
 SSID: Multi_Modal_Smart_Vehical
 Password: 0707070707
+
+---
+
