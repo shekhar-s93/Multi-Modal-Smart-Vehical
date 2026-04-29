@@ -8,7 +8,7 @@
 
 ## Project Description
 
-The ** Multi-Modal Smart Car** is a WiFi-controlled smart vehicle built using an ESP32 microcontroller.
+The ** Multi-Modal Smart Car ** is a WiFi-controlled smart vehicle built using an ESP32 microcontroller.
 
 The car can be controlled through a web-based interface and supports multiple intelligent driving modes, including:
 
