@@ -92,7 +92,7 @@ It also includes useful features such as speed control, headlights, indicators, 
 
 | Resource | Link |
 |--------|------|
-| Blackbook | [View](./BLACKBOOK/SHEKHAR SUMAN.pdf) |
+| Blackbook | [View](./BLACKBOOK/SHEKHAR_SUMAN.pdf) |
 | Circuit Diagram | [View](./DIAGRAM/CIRCUIT.png) |
 | Images | [View](./images/) |
 | Source Code | [Open](./Source_Code/Source_Code.ino) |
