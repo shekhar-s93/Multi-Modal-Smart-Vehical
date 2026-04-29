@@ -97,6 +97,8 @@ SSID: Multi_Modal_Smart_Vehical
 Password: 0707070707
 ```
 
+---
+
 ## 👨‍💻 Author
 
 **Shekhar Suman**
@@ -105,3 +107,4 @@ Password: 0707070707
 
 **BACHELOR of SCIENCE IN INFORMATION TECHNOLOGY**
 
+---
