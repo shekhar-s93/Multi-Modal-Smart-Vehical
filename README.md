@@ -1,4 +1,4 @@
-# Multi-Modal Smart Car Using ESP32(38-Pins)
+# Multi-Modal Smart Car
 
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-C++-green)
@@ -8,7 +8,7 @@
 
 ## Project Description
 
-The **ESP32 Multi-Modal Smart Car** is a WiFi-controlled smart vehicle built using an ESP32 microcontroller.
+The ** Multi-Modal Smart Car** is a WiFi-controlled smart vehicle built using an ESP32 microcontroller.
 
 The car can be controlled through a web-based interface and supports multiple intelligent driving modes, including:
 
@@ -53,7 +53,7 @@ It also includes useful features such as speed control, headlights, indicators, 
 | Software | Function |
 |---|---|
 | Arduino IDE | For Upload the Code in ESP32 |
-| Web Browser | For Controll the Car | 
+| Web Browser (Chrome, M.S Edge, Brave) | For Controll the Car | 
 
 ## Hardware Components
 
@@ -95,6 +95,6 @@ The ESP32 creates its own WiFi network.
 ```text
 SSID: Multi_Modal_Smart_Vehical
 Password: 0707070707
+```
 
----
 
