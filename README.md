@@ -62,6 +62,7 @@ It also includes useful features such as speed control, headlights, indicators, 
 | ESP32 Board | Main microcontroller |
 | L298N Motor Driver | Controls DC motors |
 | 4 DC Motors | Used for car movement |
+| 4 Wheels | Help to car for movement |
 | HC-SR04 Ultrasonic Sensor | Used for obstacle detection and follow mode |
 | 16x2 I2C LCD | Displays mode, speed, and distance |
 | 2 White LEDs | Headlights |
@@ -76,7 +77,7 @@ It also includes useful features such as speed control, headlights, indicators, 
 
 ---
 
-## Pin Configuration
+<!-- ## Pin Configuration
 
 | Component | ESP32 Pin |
 |---|---|
@@ -86,7 +87,7 @@ It also includes useful features such as speed control, headlights, indicators, 
 | Motors | Connected through L298N Motor Driver |
 | LEDs | Connected to assigned GPIO pins |
 
----
+--- -->
 
 ## Project Resources
 
